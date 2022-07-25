@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+img{
+    overflow: hidden;
+    height: 350px;
+    width: 500px;
+}
+div{
+    overflow: hidden;
+
+}
+#card{
+    border: 1px solid white;
+}
+.desc>h3{
+    margin-bottom: 10px;
+}
+.desc>h6{
+    margin-bottom: 10px;
+}

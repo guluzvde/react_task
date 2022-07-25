@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tourism_app/static/css/main.a8079c34.css",
+    "main.js": "/tourism_app/static/js/main.2c8a36c4.js",
+    "static/media/newyork.jpeg": "/tourism_app/static/media/newyork.ab341c90be7d84d20faa.jpeg",
+    "static/media/baku.jpeg": "/tourism_app/static/media/baku.91f68743061d1674da1d.jpeg",
+    "static/media/dubai.jpeg": "/tourism_app/static/media/dubai.220cb1a0dae82a662296.jpeg",
+    "static/media/istanbul.jpeg": "/tourism_app/static/media/istanbul.91f272353278d535537c.jpeg",
+    "static/media/moscow.jpeg": "/tourism_app/static/media/moscow.7b9599f096531b76b046.jpeg",
+    "static/media/paris.jpeg": "/tourism_app/static/media/paris.64692c3b3e19e00c09d3.jpeg",
+    "static/media/roma.jpeg": "/tourism_app/static/media/roma.990ef9db611bebb89887.jpeg",
+    "index.html": "/tourism_app/index.html",
+    "main.a8079c34.css.map": "/tourism_app/static/css/main.a8079c34.css.map",
+    "main.2c8a36c4.js.map": "/tourism_app/static/js/main.2c8a36c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8079c34.css",
+    "static/js/main.2c8a36c4.js"
+  ]
+}

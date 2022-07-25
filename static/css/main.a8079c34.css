@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:#000;text-align:center}.App{grid-column-gap:6px;grid-row-gap:10px;display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));padding:20px}*{color:#fff}img{height:350px;width:500px}div,img{overflow:hidden}#card{border:1px solid #fff}.desc>h3,.desc>h6{margin-bottom:10px}body{display:flex;flex-direction:column;justify-content:center;min-height:100vh}
+/*# sourceMappingURL=main.a8079c34.css.map*/
